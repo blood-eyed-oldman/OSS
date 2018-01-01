@@ -1,0 +1,16 @@
+
+1. References
+ - https://docs.brew.sh/Homebrew-and-Python.html
+ 
+2. Pre-requisites
+ - homebrew
+ 
+3. Steps
+ - install python3
+  + brew install python3
+ - update pip setuptools wheel
+  + pip3 install --upgrade pip setuptools wheel
+ - check the installation is done successfully
+  + python3 --version
+  + pip3 --version
+  
