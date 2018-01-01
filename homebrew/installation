@@ -1,0 +1,11 @@
+
+1. References
+ - https://brew.sh/index.html
+ 
+2. Steps
+ - type following command in the terminal.
+  + /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ - type your password on the prompt "password:"
+ - check the installation is done successfully
+  + brew help
+  
